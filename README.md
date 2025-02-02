@@ -1,4 +1,4 @@
-# 📊 Relatório de Análise de Vendas - Power BI
+# 📊 Relatório de Análise de Financeira - Power BI
 
 ## 📌 Descrição do Projeto
 Este repositório contém um **relatório analítico de vendas** desenvolvido no **Power BI**, focado em métricas financeiras e desempenho de vendas. O objetivo principal é fornecer insights estratégicos sobre **faturamento, lucro, custo total e quantidade vendida**, segmentados por **ano, trimestre, mês, segmento de mercado, país e produto**.
